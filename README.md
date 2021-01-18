@@ -5,14 +5,9 @@
 
 ### Hello people who stalk my profile, make yourself at home 👋
 
-I'm programming lover since 2015 when I automate my school homework using pascal for the first time with 14yo. I never stop after this.
+- :computer: I'm programming lover since 2015 when I automate my school homework using pascal for the first time with 14yo. I never stop after this.
 
-Actually I'm studying Java :heart: and Javascript
-
-Student in:
-
-- FATEC São Caetano - Software Analysis and Development
-- Santander Coders Java by Digital House
+- :book: Student in FATEC São Caetano - Software Analysis and Development
 
 Send a message, we can talk, I don't bite
 
